@@ -1,1 +1,1 @@
-var server_status = null
+var server_status = true
