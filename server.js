@@ -1,1 +1,1 @@
-var server_status = 'down'
+var server_status = 'ok'
